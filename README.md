@@ -8,6 +8,9 @@ Great Luminaries is a React-based web application that allows users to explore i
 - **Dynamic Data Fetching:** The application fetches data from the Quotable API based on the selected category (luminary).
 - **Display Author Info:** The application displays the name, description, biography, and a link to learn more about the author.
 
+## Screenshot
+<img width="1470" alt="Screenshot 2024-11-29 at 8 24 57 PM" src="https://github.com/user-attachments/assets/0b2072dd-21db-48d4-813a-24690163635a">
+
 ## Live Demo
 
 You can access the live version of the project at:  
